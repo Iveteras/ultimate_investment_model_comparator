@@ -49,3 +49,15 @@ I also used POWER BI to data visualization.
   - **Step one:** *Basically the only step on this phase. Just developed all the charts.*
  
 ## Results
+- The only model that overcame Buy and hold was *Stochastic long position* with stop loss = 30, and with 21 almost did too.
+<img src="images/average return lp.png" alt="average return long" width="900">
+- All Short position lost to Buy and hold.
+<img src="images/average return sp.png" alt="average return short" width="900">
+- In comparison with TIP, RSI (long and short position) had a great result but Stochastic long position overcame all of then.
+<img src="images/models return.png" alt="models return" width="900">
+- Regarding stop loss it was observed that the higher the stop loss, the higher the return
+<img src="images/stop loss return.png" alt="stop loss return" width="900">
+- In average Buy and hold overcame all models and TIP
+<img src="images/tip vs returns.png" alt="all return" width="900">
+- And these were the highest returning assets
+<img src="images/top 10 returns.png" alt="top 10 return" width="900">
