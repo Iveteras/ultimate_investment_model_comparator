@@ -35,4 +35,17 @@ I also used POWER BI to data visualization.
 - Default preiod in main.ipynb: 20 years.
 - Results: Every test it returned the average of buy and hold of the asset, long position and short position.
 
-## Steps
+## Phases
+- Phase 1: *Coding models*
+  - **Step one:** *Wrote the script of each model with the same parameters.*
+  - **Step two:** *Ran all the tests and compared with Buy and hold*
+  - **Step three:** *Saved each test result in [return_data](https://github.com/Iveteras/ultimate_investment_model_comparator/tree/main/return_data)*
+
+- Phase 2: *Organize data*
+  - **Step one:** *Took all returned data from the tests and got together in one single dataframe.*
+  - **Step two:** *Made the TIP (Treasury Inflation-Protected) return to have a safe guideline.*
+
+- Phase 3: *Data visualization*
+  - **Step one:** *Basically the only step on this phase. Just developed all the charts.*
+ 
+## Results
